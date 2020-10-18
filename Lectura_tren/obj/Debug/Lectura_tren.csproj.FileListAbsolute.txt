@@ -1,0 +1,7 @@
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\bin\Debug\Lectura_tren.exe.config
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\bin\Debug\Lectura_tren.exe
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\bin\Debug\Lectura_tren.pdb
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\obj\Debug\Lectura_tren.csprojAssemblyReference.cache
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\obj\Debug\Lectura_tren.csproj.CoreCompileInputs.cache
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\obj\Debug\Lectura_tren.exe
+C:\Users\matrix08\Documents\Git_GitHub\Lectura_tren\Lectura_tren\obj\Debug\Lectura_tren.pdb
